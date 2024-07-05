@@ -1,0 +1,22 @@
+All these heavy Mag7 portfolios
+
+First, there was FANG. Then came FAANG. Now we have the Magnificent 7. The labels are catchy and a easy way to categorize the gloriuos outperformers of the U.S. stock market over the past ten years. In Finland, where the Helsinki Stock Exchange has performed poorly in recent years, investors have turned their attention to the U.S. stock market and the Mag 7 stocks, even if their collective armor is starting to show some cracks this year.
+
+All the Magnificent 7 stocks, or Mag 7 for short, are either tech companies or their corporate cultures tend to be like those of pure tech firms. They also use technology to deliver their products and services. The companies are Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia, and Tesla. All of them have or have had, at some point, monopolistic or oligopolistic positions in their market, and all continue to have balance sheets that allow them to finance their bold endeavors.
+
+Many invest in Mag 7 through affordable ETFs that track the S&P 500 or Nasdaq, and I myself 'own' a tiny fraction of them through funds. 
+These investments have been profitable for me, and that's why I only slightly raise my eyebrows when I read news about the possibility of a bubble in the U.S. technology market. I wonder who is reaping the most impressive returns from the success of the Mag 7? In other words, who are their largest shareholders? Of course, the well-known faces of tech companies come to mind, like Musk, Zuckerberg, Bezos... What about the other large owners, who are they?
+
+----- graph -----
+
+According to data provided by Factset, 30-40 percent of each of the Mag 7 companies is held by their 20 largest shareholders. A significant number of these largest shareholders, about 25 percent, are asset managers, such as banks or other large financial companies. Through the funds they offer, small investors can also benefit from the rise of the Mag 7. However, other institutions, such as pension funds, also invest their assets in the Mag 7 through asset managers.
+
+As I expected, the list of the largest shareholders includes familiar names. For example, Elon Musk is one of Tesla's major shareholders, Bill Gates is a major shareholder of Microsoft and Jeff Bezos Amazon's – and his ex-wife has a junk of stocks also.
+
+----- graph -------
+
+However, the absence of Facebook's founder, Mark Zuckerberg, surprised me. At first, I thought I had made a mistake by not finding him in Meta Platforms' data. However, the reason lies in the company's share structure. Factset provides data on the publicly listed Class A shares. Meta also has Class B shares, which are held by Zuckerberg and other top executives. Zuckerberg owns 13.5 percent of Meta, making him the company's largest shareholder (https://www.techopedia.com/who-owns-the-most-meta-stock).
+
+----graph------
+
+In a way, there are also missing names among Apple's largest shareholders. None of the founders (Steve Jobs, Steve Wozniak, and Ronald Wayne) are on the list, unlike almost all other Mag 7 companies. Warren Buffet is known as one of Apple's major shareholders, although the shares are in the name of his company, Berkshire Hathaway. Other major individual shareholders of Apple include CEO Tim Cook and Chairman of the Board Arthur Levinson. (https://www.investopedia.com/articles/markets/120115/top-5-apple-shareholders.asp) 
