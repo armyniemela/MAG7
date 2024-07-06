@@ -21,3 +21,7 @@ I used datawrapper and Illustrator and I already can use them well. I wish I had
 My HTML work for Mag 7
 
 This part of the work was new for me so I used Soma's template and did some small tweeks.
+
+My webpage for Mag 7
+
+https://armyniemela.github.io/myproject01/
