@@ -14,7 +14,7 @@ Since I had modified my data quite a bit in the notebook, I decided to start aga
 
 ## My visual work for Mag 7
 
-I used **datawrapper and Illustrator** and I already can use them well. I wish I had more time to do an oppening picture for my story but I'll do something nice in the next project.
+I used **datawrapper and Illustrator** and I already can use them well. I wish I had more time to do an oppening picture for my story but it's done, it's fine as Soma says... 
 
 ## My HTML work for Mag 7
 
