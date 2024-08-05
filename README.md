@@ -22,4 +22,4 @@ This part of the work was not so familiar for me so I used Soma's template and d
 
 ## My webpage for Mag 7
 
-https://armyniemela.github.io/myproject01/
+https://armyniemela.github.io/MAG7/
